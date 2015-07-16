@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A14F4A66-4BEA-4CCB-B56F-824A33DF888C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TicTacIOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F15E13CB6F830B6CDE8E3B17E43E2C5B00ABCD4B</key>
+		<string>https://github.com/sawalha/mohammad.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TicTacIOS/TicTacIOS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F15E13CB6F830B6CDE8E3B17E43E2C5B00ABCD4B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sawalha/mohammad.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F15E13CB6F830B6CDE8E3B17E43E2C5B00ABCD4B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F15E13CB6F830B6CDE8E3B17E43E2C5B00ABCD4B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mohammad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
