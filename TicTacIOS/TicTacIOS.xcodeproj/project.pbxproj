@@ -39,6 +39,8 @@
 		E5DCCFF81B716B1C00605F35 /* 76.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFF61B716B1C00605F35 /* 76.png */; };
 		E5DCCFF91B716B1C00605F35 /* 155.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFF71B716B1C00605F35 /* 155.png */; };
 		E5DCCFFB1B716B4E00605F35 /* 152.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFFA1B716B4E00605F35 /* 152.png */; };
+		E5DCCFFF1B71753B00605F35 /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFFE1B71753B00605F35 /* bg.jpg */; };
+		E5DCD0011B71755100605F35 /* sp640.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCD0001B71755100605F35 /* sp640.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,6 +90,8 @@
 		E5DCCFF61B716B1C00605F35 /* 76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 76.png; sourceTree = "<group>"; };
 		E5DCCFF71B716B1C00605F35 /* 155.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 155.png; sourceTree = "<group>"; };
 		E5DCCFFA1B716B4E00605F35 /* 152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 152.png; sourceTree = "<group>"; };
+		E5DCCFFE1B71753B00605F35 /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
+		E5DCD0001B71755100605F35 /* sp640.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sp640.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,9 +134,11 @@
 			isa = PBXGroup;
 			children = (
 				94E7B68A1B55B6F300E8F310 /* Tac-Toe-Game-red.png */,
+				E5DCD0001B71755100605F35 /* sp640.png */,
 				94E7B6921B55BBDD00E8F310 /* sp640.png */,
 				94E7B6901B55B76500E8F310 /* sp1136.png */,
 				94E7B68D1B55B70900E8F310 /* sp480.png */,
+				E5DCCFFE1B71753B00605F35 /* bg.jpg */,
 				E5825B4F1B53065A00C56497 /* bg.jpg */,
 				E5DCCFDA1B71623D00605F35 /* Tic-Tac-Toe-Game-red1.png */,
 				E5825B501B53065A00C56497 /* oo.png */,
@@ -284,12 +290,14 @@
 				94E7B68F1B55B70900E8F310 /* sp480.png in Resources */,
 				E5825B541B53065B00C56497 /* oo.png in Resources */,
 				E5DCCFF01B716A5B00605F35 /* 50.png in Resources */,
+				E5DCD0011B71755100605F35 /* sp640.png in Resources */,
 				94E7B68B1B55B6F300E8F310 /* Tac-Toe-Game-red.png in Resources */,
 				E5DCCFE51B7167CB00605F35 /* 87.png in Resources */,
 				E5DCCFE81B7167CB00605F35 /* 114.png in Resources */,
 				E5DCCFF11B716A5B00605F35 /* 40.png in Resources */,
 				E5825B561B53065B00C56497 /* x.png in Resources */,
 				E5DCCFE61B7167CB00605F35 /* 58.png in Resources */,
+				E5DCCFFF1B71753B00605F35 /* bg.jpg in Resources */,
 				E5DCCFEA1B7167CB00605F35 /* 80.png in Resources */,
 				E5DCCFF41B716AD200605F35 /* 72.png in Resources */,
 				E5DCCFF51B716AD200605F35 /* 144.png in Resources */,
