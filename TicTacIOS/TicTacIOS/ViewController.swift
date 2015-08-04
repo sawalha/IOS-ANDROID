@@ -11,9 +11,12 @@ import UIKit
 class ViewController: UIViewController {
     
 
+    @IBOutlet var image: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor(patternImage: UIImage(named: "bg.jpg")!)
+      
     }
 
     override func didReceiveMemoryWarning() {

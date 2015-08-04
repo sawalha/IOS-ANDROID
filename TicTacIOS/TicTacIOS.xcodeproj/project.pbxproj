@@ -22,6 +22,23 @@
 		E5825B541B53065B00C56497 /* oo.png in Resources */ = {isa = PBXBuildFile; fileRef = E5825B501B53065A00C56497 /* oo.png */; };
 		E5825B551B53065B00C56497 /* sp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5825B511B53065A00C56497 /* sp.jpg */; };
 		E5825B561B53065B00C56497 /* x.png in Resources */ = {isa = PBXBuildFile; fileRef = E5825B521B53065A00C56497 /* x.png */; };
+		E5DCCFDB1B71623D00605F35 /* Tic-Tac-Toe-Game-red1.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFDA1B71623D00605F35 /* Tic-Tac-Toe-Game-red1.png */; };
+		E5DCCFE41B7167CB00605F35 /* 29.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFDC1B7167CB00605F35 /* 29.png */; };
+		E5DCCFE51B7167CB00605F35 /* 87.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFDD1B7167CB00605F35 /* 87.png */; };
+		E5DCCFE61B7167CB00605F35 /* 58.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFDE1B7167CB00605F35 /* 58.png */; };
+		E5DCCFE71B7167CB00605F35 /* 57.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFDF1B7167CB00605F35 /* 57.png */; };
+		E5DCCFE81B7167CB00605F35 /* 114.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFE01B7167CB00605F35 /* 114.png */; };
+		E5DCCFE91B7167CB00605F35 /* 180.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFE11B7167CB00605F35 /* 180.png */; };
+		E5DCCFEA1B7167CB00605F35 /* 80.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFE21B7167CB00605F35 /* 80.png */; };
+		E5DCCFEB1B7167CB00605F35 /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFE31B7167CB00605F35 /* 120.png */; };
+		E5DCCFEF1B716A5B00605F35 /* 100.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFEC1B716A5B00605F35 /* 100.png */; };
+		E5DCCFF01B716A5B00605F35 /* 50.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFED1B716A5B00605F35 /* 50.png */; };
+		E5DCCFF11B716A5B00605F35 /* 40.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFEE1B716A5B00605F35 /* 40.png */; };
+		E5DCCFF41B716AD200605F35 /* 72.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFF21B716AD200605F35 /* 72.png */; };
+		E5DCCFF51B716AD200605F35 /* 144.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFF31B716AD200605F35 /* 144.png */; };
+		E5DCCFF81B716B1C00605F35 /* 76.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFF61B716B1C00605F35 /* 76.png */; };
+		E5DCCFF91B716B1C00605F35 /* 155.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFF71B716B1C00605F35 /* 155.png */; };
+		E5DCCFFB1B716B4E00605F35 /* 152.png in Resources */ = {isa = PBXBuildFile; fileRef = E5DCCFFA1B716B4E00605F35 /* 152.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +71,23 @@
 		E5825B501B53065A00C56497 /* oo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = oo.png; sourceTree = "<group>"; };
 		E5825B511B53065A00C56497 /* sp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sp.jpg; sourceTree = "<group>"; };
 		E5825B521B53065A00C56497 /* x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x.png; sourceTree = "<group>"; };
+		E5DCCFDA1B71623D00605F35 /* Tic-Tac-Toe-Game-red1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Tic-Tac-Toe-Game-red1.png"; sourceTree = "<group>"; };
+		E5DCCFDC1B7167CB00605F35 /* 29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 29.png; sourceTree = "<group>"; };
+		E5DCCFDD1B7167CB00605F35 /* 87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 87.png; sourceTree = "<group>"; };
+		E5DCCFDE1B7167CB00605F35 /* 58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58.png; sourceTree = "<group>"; };
+		E5DCCFDF1B7167CB00605F35 /* 57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 57.png; sourceTree = "<group>"; };
+		E5DCCFE01B7167CB00605F35 /* 114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 114.png; sourceTree = "<group>"; };
+		E5DCCFE11B7167CB00605F35 /* 180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 180.png; sourceTree = "<group>"; };
+		E5DCCFE21B7167CB00605F35 /* 80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80.png; sourceTree = "<group>"; };
+		E5DCCFE31B7167CB00605F35 /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120.png; sourceTree = "<group>"; };
+		E5DCCFEC1B716A5B00605F35 /* 100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 100.png; sourceTree = "<group>"; };
+		E5DCCFED1B716A5B00605F35 /* 50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50.png; sourceTree = "<group>"; };
+		E5DCCFEE1B716A5B00605F35 /* 40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 40.png; sourceTree = "<group>"; };
+		E5DCCFF21B716AD200605F35 /* 72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 72.png; sourceTree = "<group>"; };
+		E5DCCFF31B716AD200605F35 /* 144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 144.png; sourceTree = "<group>"; };
+		E5DCCFF61B716B1C00605F35 /* 76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 76.png; sourceTree = "<group>"; };
+		E5DCCFF71B716B1C00605F35 /* 155.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 155.png; sourceTree = "<group>"; };
+		E5DCCFFA1B716B4E00605F35 /* 152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 152.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,9 +134,26 @@
 				94E7B6901B55B76500E8F310 /* sp1136.png */,
 				94E7B68D1B55B70900E8F310 /* sp480.png */,
 				E5825B4F1B53065A00C56497 /* bg.jpg */,
+				E5DCCFDA1B71623D00605F35 /* Tic-Tac-Toe-Game-red1.png */,
 				E5825B501B53065A00C56497 /* oo.png */,
 				E5825B511B53065A00C56497 /* sp.jpg */,
 				E5825B521B53065A00C56497 /* x.png */,
+				E5DCCFDC1B7167CB00605F35 /* 29.png */,
+				E5DCCFDD1B7167CB00605F35 /* 87.png */,
+				E5DCCFDE1B7167CB00605F35 /* 58.png */,
+				E5DCCFEC1B716A5B00605F35 /* 100.png */,
+				E5DCCFED1B716A5B00605F35 /* 50.png */,
+				E5DCCFFA1B716B4E00605F35 /* 152.png */,
+				E5DCCFEE1B716A5B00605F35 /* 40.png */,
+				E5DCCFF61B716B1C00605F35 /* 76.png */,
+				E5DCCFF71B716B1C00605F35 /* 155.png */,
+				E5DCCFF21B716AD200605F35 /* 72.png */,
+				E5DCCFF31B716AD200605F35 /* 144.png */,
+				E5DCCFDF1B7167CB00605F35 /* 57.png */,
+				E5DCCFE01B7167CB00605F35 /* 114.png */,
+				E5DCCFE31B7167CB00605F35 /* 120.png */,
+				E5DCCFE11B7167CB00605F35 /* 180.png */,
+				E5DCCFE21B7167CB00605F35 /* 80.png */,
 				E55BA7631B52FA4A007386A7 /* AppDelegate.swift */,
 				E55BA7651B52FA4A007386A7 /* ViewController.swift */,
 				E55BA7831B52FC87007386A7 /* BoardViewController.swift */,
@@ -220,15 +271,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5DCCFF81B716B1C00605F35 /* 76.png in Resources */,
+				E5DCCFEF1B716A5B00605F35 /* 100.png in Resources */,
+				E5DCCFE41B7167CB00605F35 /* 29.png in Resources */,
 				94E7B6931B55BBDD00E8F310 /* sp640.png in Resources */,
 				E5825B551B53065B00C56497 /* sp.jpg in Resources */,
+				E5DCCFE91B7167CB00605F35 /* 180.png in Resources */,
+				E5DCCFDB1B71623D00605F35 /* Tic-Tac-Toe-Game-red1.png in Resources */,
 				94254D3D1B55A278001AF39B /* Images-3.xcassets in Resources */,
+				E5DCCFE71B7167CB00605F35 /* 57.png in Resources */,
+				E5DCCFF91B716B1C00605F35 /* 155.png in Resources */,
 				94E7B68F1B55B70900E8F310 /* sp480.png in Resources */,
 				E5825B541B53065B00C56497 /* oo.png in Resources */,
+				E5DCCFF01B716A5B00605F35 /* 50.png in Resources */,
 				94E7B68B1B55B6F300E8F310 /* Tac-Toe-Game-red.png in Resources */,
+				E5DCCFE51B7167CB00605F35 /* 87.png in Resources */,
+				E5DCCFE81B7167CB00605F35 /* 114.png in Resources */,
+				E5DCCFF11B716A5B00605F35 /* 40.png in Resources */,
 				E5825B561B53065B00C56497 /* x.png in Resources */,
+				E5DCCFE61B7167CB00605F35 /* 58.png in Resources */,
+				E5DCCFEA1B7167CB00605F35 /* 80.png in Resources */,
+				E5DCCFF41B716AD200605F35 /* 72.png in Resources */,
+				E5DCCFF51B716AD200605F35 /* 144.png in Resources */,
+				E5DCCFFB1B716B4E00605F35 /* 152.png in Resources */,
 				E55BA7691B52FA4A007386A7 /* Main.storyboard in Resources */,
 				E55BA76E1B52FA4A007386A7 /* LaunchScreen.xib in Resources */,
+				E5DCCFEB1B7167CB00605F35 /* 120.png in Resources */,
 				E5825B531B53065B00C56497 /* bg.jpg in Resources */,
 				94E7B6911B55B76500E8F310 /* sp1136.png in Resources */,
 			);
@@ -378,7 +446,8 @@
 		E55BA77E1B52FA4A007386A7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = TicTacIOS/Info.plist;
@@ -393,7 +462,8 @@
 		E55BA77F1B52FA4A007386A7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = TicTacIOS/Info.plist;

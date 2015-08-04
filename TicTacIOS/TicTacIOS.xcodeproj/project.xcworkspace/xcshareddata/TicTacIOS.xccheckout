@@ -10,6 +10,8 @@
 	<string>TicTacIOS</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>3AABA3A452277B77A45DC5B6A9E01E6CB7906DF5</key>
+		<string>https://github.com/sawalha/IOS-ANDROID.git</string>
 		<key>F15E13CB6F830B6CDE8E3B17E43E2C5B00ABCD4B</key>
 		<string>https://github.com/sawalha/mohammad.git</string>
 	</dict>
@@ -17,17 +19,27 @@
 	<string>TicTacIOS/TicTacIOS.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F15E13CB6F830B6CDE8E3B17E43E2C5B00ABCD4B</key>
+		<key>3AABA3A452277B77A45DC5B6A9E01E6CB7906DF5</key>
 		<string>../../..</string>
+		<key>F15E13CB6F830B6CDE8E3B17E43E2C5B00ABCD4B</key>
+		<string>../../../../mohammad</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/sawalha/mohammad.git</string>
+	<string>https://github.com/sawalha/IOS-ANDROID.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F15E13CB6F830B6CDE8E3B17E43E2C5B00ABCD4B</string>
+	<string>3AABA3A452277B77A45DC5B6A9E01E6CB7906DF5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3AABA3A452277B77A45DC5B6A9E01E6CB7906DF5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS-ANDROID</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

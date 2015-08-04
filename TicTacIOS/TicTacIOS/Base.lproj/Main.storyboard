@@ -2,6 +2,7 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
@@ -16,9 +17,12 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zRW-uQ-Wo2">
-                                <rect key="frame" x="47" y="395" width="226" height="50"/>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zRW-uQ-Wo2">
+                                <rect key="frame" x="16" y="385" width="288" height="50"/>
                                 <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="0.5" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="JdS-2w-pbf"/>
+                                </constraints>
                                 <state key="normal" title="1 Vs 1">
                                     <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
@@ -27,19 +31,12 @@
                                     <action selector="OneVsOne:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nLJ-OT-sko"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h1D-X7-QtL">
-                                <rect key="frame" x="47" y="216" width="226" height="50"/>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="e0M-Lb-f9u">
+                                <rect key="frame" x="16" y="293" width="288" height="50"/>
                                 <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="0.5" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="Normal">
-                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                </state>
-                                <connections>
-                                    <action selector="Normal:" destination="BYZ-38-t0r" eventType="touchUpInside" id="sEd-Zf-sbL"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="e0M-Lb-f9u">
-                                <rect key="frame" x="47" y="303" width="226" height="50"/>
-                                <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="0.5" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="YdN-rY-Ppn"/>
+                                </constraints>
                                 <state key="normal" title="Easy">
                                     <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
@@ -48,9 +45,12 @@
                                     <action selector="Easy:" destination="BYZ-38-t0r" eventType="touchUpInside" id="f05-LA-lQZ"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k9b-j7-16k">
-                                <rect key="frame" x="47" y="122" width="226" height="50"/>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k9b-j7-16k">
+                                <rect key="frame" x="16" y="134" width="288" height="51"/>
                                 <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="0.5" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="oeV-LR-lWt"/>
+                                </constraints>
                                 <state key="normal" title="Online">
                                     <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
@@ -59,14 +59,41 @@
                                     <action selector="Online:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zve-dq-wdq"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h1D-X7-QtL">
+                                <rect key="frame" x="16" y="205" width="288" height="50"/>
+                                <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="0.5" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="vvt-hF-BFv"/>
+                                </constraints>
+                                <state key="normal" title="Normal">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="Normal:" destination="BYZ-38-t0r" eventType="touchUpInside" id="sEd-Zf-sbL"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="k9b-j7-16k" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="4z2-JK-Yft"/>
+                            <constraint firstItem="k9b-j7-16k" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="120" id="5Zh-eg-0Jy"/>
+                            <constraint firstItem="e0M-Lb-f9u" firstAttribute="top" secondItem="h1D-X7-QtL" secondAttribute="bottom" constant="40" id="DeN-LQ-QJG"/>
+                            <constraint firstItem="h1D-X7-QtL" firstAttribute="top" secondItem="k9b-j7-16k" secondAttribute="bottom" constant="40" id="F3K-NI-dTm"/>
+                            <constraint firstItem="zRW-uQ-Wo2" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="Fha-Hm-6pr"/>
+                            <constraint firstItem="e0M-Lb-f9u" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="IGg-Rs-WoZ"/>
+                            <constraint firstItem="h1D-X7-QtL" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="OLw-hy-HVj"/>
+                            <constraint firstItem="zRW-uQ-Wo2" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="S00-fG-GJ8"/>
+                            <constraint firstItem="zRW-uQ-Wo2" firstAttribute="top" secondItem="e0M-Lb-f9u" secondAttribute="bottom" constant="40" id="SFD-wA-JBR"/>
+                            <constraint firstItem="h1D-X7-QtL" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="mUx-A5-RZO"/>
+                            <constraint firstItem="e0M-Lb-f9u" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="oVI-SM-w6h"/>
+                            <constraint firstItem="k9b-j7-16k" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="w0m-47-ATf"/>
+                        </constraints>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="541.5" y="411.5"/>
+            <point key="canvasLocation" x="541" y="411"/>
         </scene>
         <!--Board View Controller-->
         <scene sceneID="MXv-5q-9gh">

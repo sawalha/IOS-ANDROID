@@ -69,7 +69,7 @@ class BoardViewController: UIViewController,UIAlertViewDelegate {
         if(boardArray[cellID] != 0){
             let alert:UIAlertView = UIAlertView(title: "InValid", message: "not empty", delegate: self, cancelButtonTitle: "OK")
             alert.show()
-        }
+        }else{
         imageViews[cellID].image = My_Turn ? x_icon : o_icon
         boardArray[cellID] = My_Turn ? 1 : 2
         
@@ -83,7 +83,7 @@ class BoardViewController: UIViewController,UIAlertViewDelegate {
         
         checkForWinner()
         
-    }
+        }}
     func alertView(alertView: UIAlertView, clickedButtonAtIndex buttonIndex: Int){
         if(alertView.tag == 1){
             if (buttonIndex == 0){
