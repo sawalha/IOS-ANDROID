@@ -18,7 +18,6 @@
 		E55BA76E1B52FA4A007386A7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E55BA76C1B52FA4A007386A7 /* LaunchScreen.xib */; };
 		E55BA77A1B52FA4A007386A7 /* TicTacIOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55BA7791B52FA4A007386A7 /* TicTacIOSTests.swift */; };
 		E55BA7841B52FC87007386A7 /* BoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55BA7831B52FC87007386A7 /* BoardViewController.swift */; };
-		E5825B531B53065B00C56497 /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5825B4F1B53065A00C56497 /* bg.jpg */; };
 		E5825B541B53065B00C56497 /* oo.png in Resources */ = {isa = PBXBuildFile; fileRef = E5825B501B53065A00C56497 /* oo.png */; };
 		E5825B551B53065B00C56497 /* sp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5825B511B53065A00C56497 /* sp.jpg */; };
 		E5825B561B53065B00C56497 /* x.png in Resources */ = {isa = PBXBuildFile; fileRef = E5825B521B53065A00C56497 /* x.png */; };
@@ -69,7 +68,6 @@
 		E55BA7781B52FA4A007386A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E55BA7791B52FA4A007386A7 /* TicTacIOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacIOSTests.swift; sourceTree = "<group>"; };
 		E55BA7831B52FC87007386A7 /* BoardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoardViewController.swift; sourceTree = "<group>"; };
-		E5825B4F1B53065A00C56497 /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
 		E5825B501B53065A00C56497 /* oo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = oo.png; sourceTree = "<group>"; };
 		E5825B511B53065A00C56497 /* sp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sp.jpg; sourceTree = "<group>"; };
 		E5825B521B53065A00C56497 /* x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x.png; sourceTree = "<group>"; };
@@ -139,7 +137,6 @@
 				94E7B6901B55B76500E8F310 /* sp1136.png */,
 				94E7B68D1B55B70900E8F310 /* sp480.png */,
 				E5DCCFFE1B71753B00605F35 /* bg.jpg */,
-				E5825B4F1B53065A00C56497 /* bg.jpg */,
 				E5DCCFDA1B71623D00605F35 /* Tic-Tac-Toe-Game-red1.png */,
 				E5825B501B53065A00C56497 /* oo.png */,
 				E5825B511B53065A00C56497 /* sp.jpg */,
@@ -305,7 +302,6 @@
 				E55BA7691B52FA4A007386A7 /* Main.storyboard in Resources */,
 				E55BA76E1B52FA4A007386A7 /* LaunchScreen.xib in Resources */,
 				E5DCCFEB1B7167CB00605F35 /* 120.png in Resources */,
-				E5825B531B53065B00C56497 /* bg.jpg in Resources */,
 				94E7B6911B55B76500E8F310 /* sp1136.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -455,7 +451,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = TicTacIOS/Info.plist;
@@ -471,7 +466,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = TicTacIOS/Info.plist;
